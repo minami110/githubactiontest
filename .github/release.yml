@@ -1,0 +1,11 @@
+changelog:
+  categories:
+    - title: RFE✨
+      labels:
+        - RFE
+    - title: FIX🐛
+      labels:
+        - BUG
+    - title: Other Changes
+      labels:
+        - "*"
